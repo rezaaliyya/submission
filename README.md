@@ -60,4 +60,4 @@ submission/
 
 ## 🌐 Dashboard Link
 
-Lihat pada file [url.txt](
+Lihat pada file [url.txt](https://github.com/rezaaliyya/submission/blob/main/url.txt)
