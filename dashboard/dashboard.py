@@ -25,8 +25,8 @@ st.markdown("Analisis penyewaan sepeda berdasarkan cuaca, waktu, dan hari kerja 
 # ==============================
 # LOAD DATA
 # ==============================
-day_df = pd.read_csv("day_cleaned.csv")
-hour_df = pd.read_csv("hour_cleaned.csv")
+day_df = pd.read_csv("dashboard/day_cleaned.csv")
+hour_df = pd.read_csv("dashboard/hour_cleaned.csv")
 
 # ==============================
 # SIDEBAR (optional filter)
